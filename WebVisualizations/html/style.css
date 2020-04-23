@@ -24,3 +24,7 @@ h1{
     background: #fff;
     border-radius: 3px;
 }
+
+.navbar li a{
+    text-decoration: none;
+}
