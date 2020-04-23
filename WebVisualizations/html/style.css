@@ -9,3 +9,7 @@ h1{
 .white-background{
     background-color: white;
 }
+
+.dropdown-menu{
+    float: right;
+}
