@@ -13,6 +13,7 @@ h1{
 
 .navbar{
     display: inline-block;
+    float: right;
 }
 
 .navbar li{
