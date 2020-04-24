@@ -38,6 +38,8 @@ h2{
 
 #nav_bar{
     margin-bottom:50px;
+    background-color: white;
+    width: 100%;
 }
 
 #lat{
@@ -46,8 +48,4 @@ h2{
     background-color: lightseagreen;
     font-family: Georgia, 'Times New Roman', Times, serif;
     padding: 5px;
-}
-
-.navbar li{
-    float: right;
 }
