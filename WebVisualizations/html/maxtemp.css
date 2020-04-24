@@ -18,16 +18,13 @@ h2{
     padding-right: 50px
 }
 
-.preview{
-    size: small;
-}
-
 #box-1{
     float: left;
     margin: 50px;
 }
 
 #box-2{
+    display: box;
     float: right;
     margin-left: 10px;
     margin-top: 50px;
