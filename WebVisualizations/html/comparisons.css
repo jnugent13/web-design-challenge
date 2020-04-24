@@ -1,0 +1,33 @@
+body{
+    background-color: lightgray;
+}
+
+h2{
+    color: lightseagreen;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.white-background{
+    background-color: white;
+}
+
+.main-body{
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-right: 50px
+}
+
+#nav_bar{
+    margin-bottom:50px;
+    background-color: white;
+    width: 100%;
+}
+
+#lat{
+    font-weight: bold;
+    color: white;
+    background-color: lightseagreen;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 5px;
+}
