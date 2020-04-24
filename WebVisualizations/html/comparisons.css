@@ -8,16 +8,16 @@ h2{
     font-weight: bold;
 }
 
+img{
+    text-align: center;
+}
+
 .white-background{
     background-color: white;
     margin-left: 10%;
     margin-right: 10%;
     padding-left: 10px;
     padding-top: 10px
-}
-
-.image{
-    align-items: center;
 }
 
 #nav_bar{
