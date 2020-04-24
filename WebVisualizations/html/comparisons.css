@@ -10,12 +10,8 @@ h2{
 
 .white-background{
     background-color: white;
-}
-
-.main-body{
-    padding-left: 50px;
-    padding-top: 50px;
-    padding-right: 50px
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
 #nav_bar{
