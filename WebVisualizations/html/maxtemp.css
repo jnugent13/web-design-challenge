@@ -5,6 +5,7 @@ body{
 h2{
     color: lightseagreen;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
 }
 
 .white-background{
@@ -17,11 +18,24 @@ h2{
     padding-right: 50px
 }
 
-.box-1{
+.preview{
+    size: small;
+}
+
+#box-1{
     float: left;
     margin: 50px;
 }
 
-#left-float{
-    float: left;
+#box-2{
+    float: right;
+    margin-left: 10px;
+    margin-top: 50px;
+    margin-right: 50px;
+}
+
+#current{
+    border-style: solid;
+    border-color: lightseagreen;
+    border: 1px;
 }
